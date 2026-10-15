@@ -26,4 +26,5 @@
 
 - **LinkedIn:** [linkedin.com/in/pherls](https://www.linkedin.com/in/pherls/)
 - **Email:** [phpherls@gmail.com](mailto:phpherls@gmail.com)
+- **Portfolio:** [pherls.dev](https://pherls.dev/)
 - **Location:** Rio Grande do Sul, Brazil
